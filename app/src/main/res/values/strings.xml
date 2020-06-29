@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="to_do_list">TO DO List</string>
+    <string name="something_went_wrong">Something went wrong!</string>
+    <string name="give_it_another_try">Give it another try</string>
+    <string name="reload">Reload</string>
+</resources>
